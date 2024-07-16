@@ -1,12 +1,12 @@
 === Keep Advanced Panel Open ===
 
-Contributors: webdevdave
+Contributors: webdevdave<br>
 Tags: gutenberg, editor, advanced panel<br>
-Requires at least: 5.0
-Tested up to: 6.5
-Stable tag: 1.0
-Requires PHP: 7.0
-License: GPLv2 or later
+Requires at least: 5.0<br>
+Tested up to: 6.5<br>
+Stable tag: 1.0<br>
+Requires PHP: 7.0<br>
+License: GPLv2 or later<br>
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Keeps the Advanced panel open by default in the WordPress block editor.
