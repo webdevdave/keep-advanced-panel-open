@@ -1,7 +1,7 @@
 === Keep Advanced Panel Open ===
 
 Contributors: webdevdave
-Tags: gutenberg, editor, advanced panel
+Tags: gutenberg, editor, advanced panel<br>
 Requires at least: 5.0
 Tested up to: 6.5
 Stable tag: 1.0
