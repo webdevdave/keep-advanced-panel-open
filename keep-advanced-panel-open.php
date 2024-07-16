@@ -1,10 +1,16 @@
 <?php
-/*
-Plugin Name: Keep Advanced Panel Open
-Description: Keeps the Advanced panel open by default in the WordPress block editor.
-Version: 1.0
-Author: WebDevDave
-*/
+/**
+ * Keep Advanced Panel Open plugin for WordPress
+ *
+ * @link      https://github.com/webdevdave/keep-advanced-panel-open
+ * @author    Dave Williams
+ *
+ * Plugin Name:  Keep Advanced Panel Open
+ * Description: Keeps the Advanced panel open by default in the WordPress block editor.
+ * Version:      1.0
+ * Author:       Dave Williams
+ * Author URI:   https://webdevdave.com/
+ */
 
 // Ensure WordPress is running
 if (!defined('ABSPATH')) {
