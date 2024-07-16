@@ -1,8 +1,9 @@
 === Keep Advanced Panel Open ===
-Contributors: (your wordpress.org username)
+
+Contributors: webdevdave
 Tags: gutenberg, editor, advanced panel
 Requires at least: 5.0
-Tested up to: (latest WordPress version)
+Tested up to: 6.5
 Stable tag: 1.0
 Requires PHP: 7.0
 License: GPLv2 or later
@@ -24,7 +25,7 @@ This plugin automatically keeps the Advanced panel open in the WordPress block e
 
 = Does this plugin work with all blocks? =
 
-This plugin should work with all standard WordPress blocks and most custom blocks. If you find a block it doesn't work with, please let us know.
+This plugin should work with all standard WordPress blocks and most custom blocks. If you find a block it doesn't work with, please let me know.
 
 == Changelog ==
 
